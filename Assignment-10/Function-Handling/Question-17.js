@@ -1,0 +1,1 @@
+Write a JavaScript program to find sum of digits of a given number using function.

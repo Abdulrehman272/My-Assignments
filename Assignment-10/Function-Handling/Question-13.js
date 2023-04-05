@@ -1,0 +1,1 @@
+Write a JavaScript program to find sum of all natural numbers between 1 to n using function.

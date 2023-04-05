@@ -1,0 +1,1 @@
+Write a JavaScript program to find factorial of any number using function.

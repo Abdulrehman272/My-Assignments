@@ -1,0 +1,1 @@
+Write a JavaScript program to find sum of all even or odd numbers in given range using function.

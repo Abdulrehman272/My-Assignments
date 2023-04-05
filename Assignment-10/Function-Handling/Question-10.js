@@ -1,0 +1,1 @@
+Write a JavaScript program to find power of any number using function.

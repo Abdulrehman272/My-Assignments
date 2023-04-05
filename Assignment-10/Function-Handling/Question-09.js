@@ -1,0 +1,1 @@
+// Write a JavaScript program to print all perfect numbers between given interval using function
