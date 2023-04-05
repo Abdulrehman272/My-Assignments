@@ -1,1 +1,15 @@
-Write a JavaScript program to find reverse of any number using function.
+// Write a JavaScript program to find reverse of any number using function.
+
+
+function reverseNumber(num) {
+    let reversedNum = 0;
+    while (num > 0) {
+      reversedNum = (reversedNum * 10) + (num % 10);
+      num = Math.floor(num / 10);
+    }
+    return reversedNum;
+  }
+  
+  // Example usage
+  console.log(reverseNumber(12345)); // prints 54321, which is the reverse of 12345
+  

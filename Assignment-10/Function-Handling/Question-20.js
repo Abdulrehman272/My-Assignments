@@ -1,0 +1,1 @@
+Write a JavaScript program to find GCD (HCF) of two numbers using function.
